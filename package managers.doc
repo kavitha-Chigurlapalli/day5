@@ -1,9 +1,9 @@
 Ubuntu (Debian-based systems):
 •sudo apt update (updates the list of available packages and their versions).
 •sudo apt upgrade (actually installs newer versions of the packages).
-• RHEL (Red Hat-based systems):
+RHEL (Red Hat-based systems):
 •sudo yum update (updates the list of available packages and their versions).
 •sudo yum upgrade (actually installs newer versions of the packages).
-• DNF (Dandified Yum) for latest RHEL-based systems:
-•sudo dnf update
-•sudo dnf upgrade
+DNF (Dandified Yum) for latest RHEL-based systems:
+sudo dnf update
+sudo dnf upgrade
