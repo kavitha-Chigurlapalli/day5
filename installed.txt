@@ -1,0 +1,8 @@
+For Debian-based systems like Ubuntu to list installed packages use : dpkg -l
+• Status Codes:
+
+ii: Installed
+rc: Removed, but configuration files remain
+un: Not installed
+iU: Installed, but unpacked only
+iF: Installed, but half-configured
